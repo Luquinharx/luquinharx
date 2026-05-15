@@ -1,10 +1,11 @@
+<img width="100%" src="./img/banner.png" alt="Lucas Martins Developer Banner" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas;RPA+%26+AI+Automation+Developer;Python,+n8n,+APIs,+LLMs;Be+welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Luquinharx&show_icons=true&rank_icon=github&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=25,0d1117,08565A,058082" alt="Luquinharx github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Luquinharx&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=25,0d1117,08565A,058082" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Luquinharx&show_icons=true&rank_icon=github&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=25,0d1117,08565A,058082" alt="Luquinharx github stats" /> 
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Luquinharx&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=25,0d1117,08565A,058082" alt="Top Languages" />
 </div>
 
 <p align="center">
@@ -14,20 +15,8 @@
 <div align="center">  
   <a href="https://www.linkedin.com/in/lqx/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/luquinharx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://lqxportifolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-00bfbf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
 </div> 
-
-<br>
-
-### 👨‍💻 Sobre mim
-**Desenvolvedor focado em Automação, RPA e Inteligência Artificial** aplicada a negócios, criando soluções que reduzem trabalho manual, integram sistemas e transformam processos repetitivos em fluxos inteligentes.
-
-Muitas empresas ainda perdem tempo com tarefas operacionais, dados espalhados, retrabalho entre sistemas e atendimentos que poderiam ser resolvidos com automações bem estruturadas. O resultado é previsível: times sobrecarregados, baixa produtividade e decisões tomadas sem dados confiáveis. Minha atuação é justamente resolver esse tipo de problema.
-
-Desenvolvo automações com **n8n, Python, APIs, webhooks, SQL e integrações entre sistemas**, além de soluções com **IA generativa, LLMs, RAG, LangChain e chatbots inteligentes** para busca, atendimento, análise e geração de informação.
-
-Também tenho forte experiência web utilizando tecnologias como **React, Next.js, Node.js, TypeScript e Tailwind CSS**, o que me permite não apenas automatizar processos, mas criar interfaces, dashboards e aplicações completas voltadas ao usuário final.
-
-Meu foco: **menos tarefas manuais, mais eficiência operacional e inteligência aplicada ao negócio.** Aberto a oportunidades! Vamos conversar?
 
 <br>
   
