@@ -1,0 +1,52 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas;RPA+%26+AI+Automation+Developer;Python,+n8n,+APIs,+LLMs;Be+welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luquinharx&show_icons=true&rank_icon=github&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=25,0d1117,08565A,058082" alt="Luquinharx github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luquinharx&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=25,0d1117,08565A,058082" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Luquinharx&theme=oldie&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+<div align="center">  
+  <a href="https://www.linkedin.com/in/lqx/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/luquinharx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div> 
+  
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Luquinharx/count.svg" alt="Visitors Count" /></p> 
+  <br>
+</div>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="an animated visualization of github contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" align="center">
+</picture>
+
+### Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=FF6D5W)&nbsp;
+![API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=json&logoColor=white)&nbsp;
+![Generative AI](https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![RPA](https://img.shields.io/badge/RPA-0D1117?style=for-the-badge&logo=robot&logoColor=white)&nbsp;
+
+### Other Knowledge:
+![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![Kafka](https://img.shields.io/badge/Apache_Kafka-0D1117?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=book&logoColor=white)&nbsp;
+![Mensageria](https://img.shields.io/badge/Mensageria-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
